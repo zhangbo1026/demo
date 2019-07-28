@@ -1,0 +1,61 @@
+
+# Created by https://www.gitignore.io/api/macos,slickedit,komodoedit,darteditor
+# Edit at https://www.gitignore.io/?templates=macos,slickedit,komodoedit,darteditor
+
+### DartEditor ###
+.project
+.buildlog
+.bak
+
+### KomodoEdit ###
+*.komodoproject
+.komodotools
+.bak
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+.bak
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.bak
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+.bak
+
+### SlickEdit ###
+# SlickEdit workspace and project files are ignored by default because
+# typically they are considered to be developer-specific and not part of a
+# project.
+*.vpw
+*.vpj
+*.bak
+
+# SlickEdit workspace history and tag files always contain user-specific
+# data so they should not be stored in a repository.
+*.vpwhistu
+*.vpwhist
+*.vtg
+*.bak
+
+# End of https://www.gitignore.io/api/macos,slickedit,komodoedit,darteditor
