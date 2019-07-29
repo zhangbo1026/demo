@@ -2,6 +2,13 @@
 # Created by https://www.gitignore.io/api/macos,slickedit,komodoedit,darteditor
 # Edit at https://www.gitignore.io/?templates=macos,slickedit,komodoedit,darteditor
 
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
 ### DartEditor ###
 .project
 .buildlog
